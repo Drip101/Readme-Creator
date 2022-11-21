@@ -1,5 +1,18 @@
-# My Title
+# readme creator
   ## Description
-  This is my descrition
+  master keyboard
+  ##Installation
+  npm i
+  ##Usage
+  none
+  ##License
+  MIT
+  ##Contributing
+  impossible
+  ##Test
+  none
+  ##Questions
+  undefined
+
 
 
